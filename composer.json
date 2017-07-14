@@ -1,0 +1,21 @@
+{
+    "name": "songlipeng2003/alipay",
+    "description": "alipay sdk",
+    "version": "1.0.0",
+    "keywords": ["alipay"],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "support": {
+        "issues": "https://github.com/songlipeng2003/alipay/issues?state=open",
+        "wiki": "https://github.com/songlipeng2003/alipay/wiki/",
+        "source": "https://github.com/songlipeng2003/alipay"
+    },
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {"songlipeng2003\\alipay\\": "src"}
+    }
+}
