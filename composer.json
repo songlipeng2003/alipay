@@ -1,7 +1,7 @@
 {
     "name": "songlipeng2003/alipay",
     "description": "alipay sdk",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "keywords": ["alipay"],
     "minimum-stability": "dev",
     "prefer-stable": true,
